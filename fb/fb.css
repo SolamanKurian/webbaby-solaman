@@ -30,7 +30,7 @@ color: #fff;
 font-size: 11px;
 }
 .log-in-controlls{
-margin-left: 115px;
+margin-left: 145px;
 }
 .forgotten{
     color: #9cb4d8;
@@ -52,12 +52,13 @@ margin-left: 115px;
 .left-section{
     width: 50%;
     float: left;
-    padding-left: 136px;
+    padding-left: 130px;
     padding-top: 40px;
 }
 .right-section{
-    width: 50%;
-    float: left;
+    width: 40%;
+    float: left ;
+   
 }
 .main-body{
     background: linear-gradient(white,#D3D8E8);
@@ -70,4 +71,24 @@ margin-left: 115px;
 .para{
     font-weight: bold;
     font-size: 21px;
+}
+.Create{
+    
+    font-weight: bold;
+    font-size: 34px;
+    
+}
+.cpara{
+    margin-top: -25px;
+    font-weight: bold;
+}
+.field{
+    height: 23px;
+    margin: 4px;
+    border-radius: ;
+}
+.field1{
+    margin: 3px;
+    width: 361px;
+    height: 23px;
 }
